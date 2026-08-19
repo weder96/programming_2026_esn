@@ -129,7 +129,7 @@ weder@/tmp/sort$
 
 **Repo:**
 
--   GitHub repository: `sorting_algorithms`
+-   GitHub repository: `sortingAlgorithms`
 -   File: `insertion_sort_list.c
 
  Done? Help Check your code Ask for a new correction QA Review

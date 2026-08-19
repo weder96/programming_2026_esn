@@ -1,0 +1,3 @@
+Nesse exemplo, a função fgetc() é utilizada juntamente com a constante EOF para
+ler não apenas alguns caracteres, mas para continuar lendo caracteres enquanto não
+chegamos ao final do arquivo.

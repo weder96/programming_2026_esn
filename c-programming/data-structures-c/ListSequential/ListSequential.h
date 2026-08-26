@@ -7,6 +7,7 @@ struct student {
     float g1, g2, g3;
 };
 
+
 typedef struct list List;
 
 List* create_list();
